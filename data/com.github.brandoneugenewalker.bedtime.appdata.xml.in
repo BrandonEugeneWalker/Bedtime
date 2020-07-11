@@ -4,16 +4,16 @@
   <id>com.github.brandoneugenewalker.bedtime</id>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0+</project_license>
-  <name>Your App's Name</name>
-  <summary>A Catchy Tagline</summary>
+  <name>Bedtime</name>
+  <summary>Promote healthy sleep.</summary>
   <description>
-    <p>A quick summary of your app's main selling points and features. Just a couple sentences per paragraph is best.</p>
+    <p>Promote healthy sleeping habits by reminding yourself to step away from your screens an hour before bedtime.</p>
   </description>
   <provides>
     <binary>com.github.brandoneugenewalker.bedtime</binary>
   </provides>
   <developer_name>Brandon Eugene Walker</developer_name>
-  <url type="homepage"></url>
+  <url type="homepage">https://github.com/brandoneugenewalker</url>
   <url type="bugtracker">http://github.com/brandoneugenewalker/Bedtime/issues</url>
   <url type="help">http://github.com/brandoneugenewalker/Bedtime/issues</url>
   <screenshots>
@@ -50,6 +50,6 @@
     <content_attribute id="money-gambling">none</content_attribute>
   </content_rating>
   <releases>
-    <rel8ease version="0.0.1" date="2020-01-01"/>
+    <release version="1.0.0" date="2020-07-31"/>
   </releases>
 </component>

@@ -1,10 +1,10 @@
 [Desktop Entry]
 Type=Application
-Name=Name
+Name=Bedtime
 Comment=Comment
-GenericName=GenericName
-Exec=com.github.brandoneugenewalker.bedtime %U
+GenericName=com.github.brandoneugenewalker.bedtime
+Exec=com.github.brandoneugenewalker.bedtime
 Icon=com.github.brandoneugenewalker.bedtime
 Terminal=false
-Categories=Utility;GTK;Development;
-Keywords=Develop
+Categories=Accessories;GTK;Utility;
+Keywords=sleep;eye;strain;health;

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema path="/com/github/brandoneugenewalker/bedtime" id="com.github.brandoneugenewalker.bedtime">
+    <key name="prefer-dark-style" type="b">
+      <default>false</default>
+      <summary>If the dark Gtk stylesheet should be used</summary>
+      <description>If the dark Gtk stylesheet should be used</description>
+    </key> 
+    <key name="reminder-enabled" type="b">
+      <default>false</default>
+      <summary>If the reminder is enabled or not.</summary>
+      <description>If the reminder is enabled or not.</description>	
+    </key>
+    <key name="bedtime-hour" type="i">
+      <default>10</default>
+      <summary>The hour the user goes to bed.</summary>
+      <descrition>The hour the user goes to bed.</description>
+    </key>
+    <key name="bedtime-minute" type="i">
+      <default>0</default>
+      <summary>The minute the user goes to bed.</summary>
+      <descrition>The minute the user goes to bed.</description>
+    </key>
+  </schema>
+</schemalist>
